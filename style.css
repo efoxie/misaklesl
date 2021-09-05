@@ -21,8 +21,15 @@
     grid-row-end: 2;
     text-align: center;
     margin: auto;
+    font-family: Courier;
 }
 
 .one a {
     text-decoration: none;
+    color: white;
+    font-size: 2vw;
+}
+
+.one a:hover {
+    color:grey;
 }
