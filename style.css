@@ -161,6 +161,23 @@ p {
     text-decoration:underline;
 }
 
+.about-us-us {
+    display: grid;
+    grid-column: 2 / 11;
+    grid-row: 5 / 15  ; 
+}
+
+.map {
+    background-color:sandybrown;
+    grid-column: 2 / 7;
+    text-align: center;
+}
+
+.info {
+    background-color: burlywood;
+    grid-column: 8 / 11;
+    text-align: center;
+}
 @media (max-width: 600px) {
     .my-aloe {
         font-size: 1.5vw;
