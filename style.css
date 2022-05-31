@@ -168,14 +168,14 @@ p {
 }
 
 .map {
-    background-color:sandybrown;
+    background-color:blu;
     grid-column: 2 / 7;
     text-align: center;
 }
 
 .info {
     background-color: burlywood;
-    grid-column: 8 / 11;
+    grid-column: 8 / 11; 
     text-align: center;
 }
 @media (max-width: 600px) {
